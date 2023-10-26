@@ -15,6 +15,6 @@
 
 ## Pinned Repos 🤓
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samettigy&theme=dracula&repo=FlightBusBooking)](https://github.com/samettigy/FlightBusBooking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samettigy&theme=dracula&repo=FlightBusBooking)](https://github.com/samettigy/UIMaximumApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samettigy&theme=dracula&repo=Etrade-Web)](https://github.com/samettigy/Etrade-Web)
 
